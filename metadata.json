@@ -1,0 +1,6 @@
+{
+  "name": "activityaccess",
+  "description": "An AI-driven Privileged Access Misuse & Insider Threat Detection system for banks, featuring post-quantum auto-rekeying containment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
